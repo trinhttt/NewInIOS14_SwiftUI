@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0E8A6F672561DEFD00E60EF6 /* ExpandingLisstView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E8A6F662561DEFD00E60EF6 /* ExpandingLisstView.swift */; };
 		0E9F942F2560992A000B4186 /* NewInIOS14_SwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E9F942E2560992A000B4186 /* NewInIOS14_SwiftUIApp.swift */; };
 		0E9F94332560992C000B4186 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0E9F94322560992C000B4186 /* Assets.xcassets */; };
 		0E9F94362560992C000B4186 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0E9F94352560992C000B4186 /* Preview Assets.xcassets */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0E8A6F662561DEFD00E60EF6 /* ExpandingLisstView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpandingLisstView.swift; sourceTree = "<group>"; };
 		0E9F942B2560992A000B4186 /* NewInIOS14_SwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NewInIOS14_SwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0E9F942E2560992A000B4186 /* NewInIOS14_SwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewInIOS14_SwiftUIApp.swift; sourceTree = "<group>"; };
 		0E9F94322560992C000B4186 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -85,6 +87,7 @@
 				0E9F94462560DE6F000B4186 /* ColorPickerView.swift */,
 				0E9F944925612CEE000B4186 /* LazyStackView.swift */,
 				0E9F944C25617A53000B4186 /* IndeterminateProgressView.swift */,
+				0E8A6F662561DEFD00E60EF6 /* ExpandingLisstView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -159,6 +162,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0E9F94472560DE6F000B4186 /* ColorPickerView.swift in Sources */,
+				0E8A6F672561DEFD00E60EF6 /* ExpandingLisstView.swift in Sources */,
 				0E9F944325609D3C000B4186 /* ScrollingPages.swift in Sources */,
 				0E9F943F25609942000B4186 /* MapView.swift in Sources */,
 				0E9F942F2560992A000B4186 /* NewInIOS14_SwiftUIApp.swift in Sources */,
