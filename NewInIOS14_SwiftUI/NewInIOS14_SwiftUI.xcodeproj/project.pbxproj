@@ -12,6 +12,7 @@
 		0E9F94362560992C000B4186 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0E9F94352560992C000B4186 /* Preview Assets.xcassets */; };
 		0E9F943F25609942000B4186 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E9F943E25609942000B4186 /* MapView.swift */; };
 		0E9F944325609D3C000B4186 /* ScrollingPages.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E9F944225609D3C000B4186 /* ScrollingPages.swift */; };
+		0E9F94472560DE6F000B4186 /* ColorPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E9F94462560DE6F000B4186 /* ColorPickerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		0E9F94372560992C000B4186 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0E9F943E25609942000B4186 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		0E9F944225609D3C000B4186 /* ScrollingPages.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollingPages.swift; sourceTree = "<group>"; };
+		0E9F94462560DE6F000B4186 /* ColorPickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +78,7 @@
 			children = (
 				0E9F943E25609942000B4186 /* MapView.swift */,
 				0E9F944225609D3C000B4186 /* ScrollingPages.swift */,
+				0E9F94462560DE6F000B4186 /* ColorPickerView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -149,6 +152,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0E9F94472560DE6F000B4186 /* ColorPickerView.swift in Sources */,
 				0E9F944325609D3C000B4186 /* ScrollingPages.swift in Sources */,
 				0E9F943F25609942000B4186 /* MapView.swift in Sources */,
 				0E9F942F2560992A000B4186 /* NewInIOS14_SwiftUIApp.swift in Sources */,
