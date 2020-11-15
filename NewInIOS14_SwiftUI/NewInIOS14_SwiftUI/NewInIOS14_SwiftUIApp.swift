@@ -11,7 +11,7 @@ import SwiftUI
 struct NewInIOS14_SwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ColorPickerView()
+            LazyStackView()
         }
     }
 }

@@ -13,6 +13,7 @@
 		0E9F943F25609942000B4186 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E9F943E25609942000B4186 /* MapView.swift */; };
 		0E9F944325609D3C000B4186 /* ScrollingPages.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E9F944225609D3C000B4186 /* ScrollingPages.swift */; };
 		0E9F94472560DE6F000B4186 /* ColorPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E9F94462560DE6F000B4186 /* ColorPickerView.swift */; };
+		0E9F944A25612CEE000B4186 /* LazyStackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E9F944925612CEE000B4186 /* LazyStackView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0E9F943E25609942000B4186 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		0E9F944225609D3C000B4186 /* ScrollingPages.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollingPages.swift; sourceTree = "<group>"; };
 		0E9F94462560DE6F000B4186 /* ColorPickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerView.swift; sourceTree = "<group>"; };
+		0E9F944925612CEE000B4186 /* LazyStackView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyStackView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 				0E9F943E25609942000B4186 /* MapView.swift */,
 				0E9F944225609D3C000B4186 /* ScrollingPages.swift */,
 				0E9F94462560DE6F000B4186 /* ColorPickerView.swift */,
+				0E9F944925612CEE000B4186 /* LazyStackView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -156,6 +159,7 @@
 				0E9F944325609D3C000B4186 /* ScrollingPages.swift in Sources */,
 				0E9F943F25609942000B4186 /* MapView.swift in Sources */,
 				0E9F942F2560992A000B4186 /* NewInIOS14_SwiftUIApp.swift in Sources */,
+				0E9F944A25612CEE000B4186 /* LazyStackView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
