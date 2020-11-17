@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		0E108C332562DC2100C53B06 /* VideoPlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E108C322562DC2100C53B06 /* VideoPlayerView.swift */; };
 		0E108C3625632F8000C53B06 /* TextIconLabelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E108C3525632F8000C53B06 /* TextIconLabelView.swift */; };
+		0E2411E22564254F0050ADB6 /* WebLinkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E2411E12564254F0050ADB6 /* WebLinkView.swift */; };
 		0E8A6F672561DEFD00E60EF6 /* ExpandingLisstView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E8A6F662561DEFD00E60EF6 /* ExpandingLisstView.swift */; };
 		0E9F942F2560992A000B4186 /* NewInIOS14_SwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E9F942E2560992A000B4186 /* NewInIOS14_SwiftUIApp.swift */; };
 		0E9F94332560992C000B4186 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0E9F94322560992C000B4186 /* Assets.xcassets */; };
@@ -23,6 +24,7 @@
 /* Begin PBXFileReference section */
 		0E108C322562DC2100C53B06 /* VideoPlayerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerView.swift; sourceTree = "<group>"; };
 		0E108C3525632F8000C53B06 /* TextIconLabelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextIconLabelView.swift; sourceTree = "<group>"; };
+		0E2411E12564254F0050ADB6 /* WebLinkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebLinkView.swift; sourceTree = "<group>"; };
 		0E8A6F662561DEFD00E60EF6 /* ExpandingLisstView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpandingLisstView.swift; sourceTree = "<group>"; };
 		0E9F942B2560992A000B4186 /* NewInIOS14_SwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NewInIOS14_SwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0E9F942E2560992A000B4186 /* NewInIOS14_SwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewInIOS14_SwiftUIApp.swift; sourceTree = "<group>"; };
@@ -94,6 +96,7 @@
 				0E8A6F662561DEFD00E60EF6 /* ExpandingLisstView.swift */,
 				0E108C322562DC2100C53B06 /* VideoPlayerView.swift */,
 				0E108C3525632F8000C53B06 /* TextIconLabelView.swift */,
+				0E2411E12564254F0050ADB6 /* WebLinkView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -174,6 +177,7 @@
 				0E9F942F2560992A000B4186 /* NewInIOS14_SwiftUIApp.swift in Sources */,
 				0E108C3625632F8000C53B06 /* TextIconLabelView.swift in Sources */,
 				0E9F944A25612CEE000B4186 /* LazyStackView.swift in Sources */,
+				0E2411E22564254F0050ADB6 /* WebLinkView.swift in Sources */,
 				0E9F944D25617A53000B4186 /* IndeterminateProgressView.swift in Sources */,
 				0E108C332562DC2100C53B06 /* VideoPlayerView.swift in Sources */,
 			);
