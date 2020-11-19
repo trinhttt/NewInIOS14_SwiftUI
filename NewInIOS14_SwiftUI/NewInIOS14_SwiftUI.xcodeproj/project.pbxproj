@@ -13,6 +13,7 @@
 		0E2411E525642C9E0050ADB6 /* DatePickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E2411E425642C9E0050ADB6 /* DatePickerView.swift */; };
 		0E2411E825648D5A0050ADB6 /* DisclosureGroupView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E2411E725648D5A0050ADB6 /* DisclosureGroupView.swift */; };
 		0E2411EB2564903A0050ADB6 /* SidebarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E2411EA2564903A0050ADB6 /* SidebarView.swift */; };
+		0E4B91D02567277F0055C859 /* FileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E4B91CF2567277F0055C859 /* FileView.swift */; };
 		0E8A6F672561DEFD00E60EF6 /* ExpandingLisstView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E8A6F662561DEFD00E60EF6 /* ExpandingLisstView.swift */; };
 		0E9F942F2560992A000B4186 /* NewInIOS14_SwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E9F942E2560992A000B4186 /* NewInIOS14_SwiftUIApp.swift */; };
 		0E9F94332560992C000B4186 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0E9F94322560992C000B4186 /* Assets.xcassets */; };
@@ -31,6 +32,7 @@
 		0E2411E425642C9E0050ADB6 /* DatePickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerView.swift; sourceTree = "<group>"; };
 		0E2411E725648D5A0050ADB6 /* DisclosureGroupView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DisclosureGroupView.swift; sourceTree = "<group>"; };
 		0E2411EA2564903A0050ADB6 /* SidebarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SidebarView.swift; sourceTree = "<group>"; };
+		0E4B91CF2567277F0055C859 /* FileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileView.swift; sourceTree = "<group>"; };
 		0E8A6F662561DEFD00E60EF6 /* ExpandingLisstView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpandingLisstView.swift; sourceTree = "<group>"; };
 		0E9F942B2560992A000B4186 /* NewInIOS14_SwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NewInIOS14_SwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0E9F942E2560992A000B4186 /* NewInIOS14_SwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewInIOS14_SwiftUIApp.swift; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				0E2411E425642C9E0050ADB6 /* DatePickerView.swift */,
 				0E2411E725648D5A0050ADB6 /* DisclosureGroupView.swift */,
 				0E2411EA2564903A0050ADB6 /* SidebarView.swift */,
+				0E4B91CF2567277F0055C859 /* FileView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -183,6 +186,7 @@
 				0E8A6F672561DEFD00E60EF6 /* ExpandingLisstView.swift in Sources */,
 				0E9F944325609D3C000B4186 /* ScrollingPages.swift in Sources */,
 				0E2411E525642C9E0050ADB6 /* DatePickerView.swift in Sources */,
+				0E4B91D02567277F0055C859 /* FileView.swift in Sources */,
 				0E9F943F25609942000B4186 /* MapView.swift in Sources */,
 				0E2411E825648D5A0050ADB6 /* DisclosureGroupView.swift in Sources */,
 				0E9F942F2560992A000B4186 /* NewInIOS14_SwiftUIApp.swift in Sources */,

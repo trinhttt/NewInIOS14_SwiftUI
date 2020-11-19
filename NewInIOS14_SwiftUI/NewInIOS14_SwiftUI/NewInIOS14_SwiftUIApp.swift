@@ -9,9 +9,15 @@ import SwiftUI
 
 @main
 struct NewInIOS14_SwiftUIApp: App {
+//    var body: some Scene {
+//        WindowGroup {
+//            SidebarView()
+//        }
+//    }
+    
     var body: some Scene {
-        WindowGroup {
-            SidebarView()
+        DocumentGroup(newDocument: TextFile()) { file in
+            FileView(document: file.$document)
         }
     }
 }
